@@ -389,3 +389,13 @@ Tipe data C++ merupakan elemen penting dalam pemrograman yang menentukan jenis n
 ## Referensi
 [1] O. M. Febriani and A. S. Putra, “Sistem Informasi Monitoring Inventori Barang Pada Balai Riset Standardisasi Industri Bandar Lampung,” J. Inform.,vol. 13, no. 1, pp. 90–98, 2014.</br>
 [2] A. S. Putra, “2018 Artikel Struktur Data, Audit Dan Jaringan Komputer,” 2018.
+
+
+
+
+
+
+
+
+## Noted
+di Guided sama Unguided ada file laprakmodul1.md yang versi ada output kak
