@@ -170,12 +170,13 @@ int main(){
 ![alt text](<Screenshot 2024-03-20 095133-1.png>) </br>
 Kode diatas digunakan untuk mencari maksimum nilai pada array ke berapa menggunakan perulangan for
 
-## Unguided
-## Unguided 1
-## Program menampilkan nilai ganjil dan genap menggunakan array
 // coding by Luthfi Adi Harianto 
 // NIM : 2311102172
 // Kelas : IF11E
+## Unguided
+## Unguided 1
+## Program menampilkan nilai ganjil dan genap menggunakan array
+
 #include <iostream>
 
 using namespace std;
