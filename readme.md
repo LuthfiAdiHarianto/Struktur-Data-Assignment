@@ -145,8 +145,8 @@ int main()
     return 0;
 }
 ```
-![alt text](<Screenshot 2024-03-20 094034-1.png>) </br>
-![alt text](<Screenshot 2024-03-20 094059-1.png>) </br>
+![alt text](https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul2-Array/Guided/Screenshot%202024-03-20%20094034.png?raw=true)
+![alt text](https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul2-Array/Guided/Screenshot%202024-03-20%20094059.png?raw=true)
 
 Kode diatas digunakan untuk menginputkan nilai melalui array 3 dimensi dengan menggunakan konsep perulangan for
 
@@ -179,7 +179,7 @@ int main(){
     cout << "Nilai maksimum adalah "<<maks << " berada di Array ke " << lokasi << endl;
 }
 ```
-![alt text](<Screenshot 2024-03-20 095133-1.png>) </br>
+![alt text](https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul2-Array/Guided/Screenshot%202024-03-20%20095133.png?raw=true)
 
 Kode diatas digunakan untuk mencari maksimum nilai pada array ke berapa menggunakan perulangan for
 
@@ -224,7 +224,7 @@ int main() {
     return 0;
 }
 ```
-![alt text](<Screenshot 2024-03-19 121318-1.png>) </br>
+![alt text](https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul2-Array/Guided/Screenshot%202024-03-19%20121318.png?raw=true)
 
 Kode diatas digunakan untuk menampilkan output(dihasilkan/dikeluarkan) yang diinputkan(dimasukkan) dari user 1,2,3,4,5,6,7,8,9,10 menghasilkan nomor genap 2,4,6,8,10 dan nomor ganjil 1,3,5,7,9
 
@@ -274,8 +274,8 @@ int main() {
   return 0;
 }
 ```
-![alt text](<Screenshot 2024-03-19 121528-1.png>) </br>
-![alt text](<Screenshot 2024-03-19 121549-1.png>) </br>
+![alt text](https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul2-Array/Guided/Screenshot%202024-03-19%20121528.png?raw=true)
+![alt text](https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul2-Array/Guided/Screenshot%202024-03-19%20121549-1.png?raw=true)
 
 Kode diatas digunakan untuk menampilkan output array tiga dimensi dimana jumlah atau ukuran elemen diinput kan oleh user
 
@@ -336,6 +336,6 @@ int main() {
   return 0;
 }
 ```
-![alt text](<Screenshot 2024-03-19 121858-1.png>) </br>
+![alt text](https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul2-Array/Guided/Screenshot%202024-03-19%20121858-1.png?raw=true)
 
 Kode diatas digunakan untuk menampilkan output nilai maksimum, minimum , dan nilai rata rata dari suatu array yang dimasukkan nilai terserah/bebas oleh user
