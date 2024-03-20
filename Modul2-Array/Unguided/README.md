@@ -145,8 +145,8 @@ int main()
     return 0;
 }
 
-![alt text](https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul2-Array/Unguided/Guided1.png?raw=true)
-![alt text](https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul2-Array/Unguided/Guided-1.png?raw=true)
+<img width="960" alt="Guided1" src="https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/assets/161666275/31d6bb2b-07b4-492d-99f6-ab89f2fe23ae">
+
 Kode diatas digunakan untuk menginputkan nilai melalui array 3 dimensi dengan menggunakan konsep perulangan for
 
 ## Guided 2
