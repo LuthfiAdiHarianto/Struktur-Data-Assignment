@@ -1,26 +1,20 @@
-Nama : Luthfi Adi Harianto
-NIM : 2311102172
-Kelas : IF 11 E
-
 ## Dasar Teori
-## TIPE DATA ARRAY
     by Luthfi Adi Harianto
     IF 11 E
     2311102172
- Array merupakan struktur data yang paling dasar. Sebelum mempelajari struktur data lainnya, alangkah baiknya, kita perlu mempelajari Array terlebih dahulu. Berikut ini adalah beberapa jenis array :
+ Array merupakan struktur data yang paling dasar. Sebelum mempelajari struktur data lainnya, alangkah baiknya, kita perlu mempelajari Array terlebih dahulu. Berikut ini
+adalah beberapa jenis array :
     1) Array Satu Dimensi
 Array satu dimensi adalah tipe variabel yang terdiri dari kumpulan data
 dengan tipe yang sama yang disusun dalam satu baris atau satu dimensi. Setiap
 elemen di dalam array memiliki sebuah indeks atau nomor yang digunakan
 untuk mengakses elemen tersebut. Indeks dimulai dari 0 dan berakhir pada
 jumlah elemen dikurangi satu.
-Contohnya : 
-sebuah array satu dimensi yang berisi bilangan bulat {1, 2,
+Contohnya : sebuah array satu dimensi yang berisi bilangan bulat {1, 2,
 3, 4, 5} memiliki lima elemen dan indeksnya dimulai dari 0. Indeks 0 merujuk
 pada elemen pertama, indeks 1 merujuk pada elemen kedua, dan seterusnya
 hingga indeks 4 merujuk pada elemen kelima.
 Contoh :
-
 #include <iostream>
 using namespace std;
 int main() {
@@ -39,7 +33,6 @@ Dalam array dua dimensi, setiap elemen memiliki dua indeks, yaitu indeks
 baris dan indeks kolom. Indeks baris menunjukkan posisi elemen dalam baris,
 sementara indeks kolom menunjukkan posisi elemen dalam kolom.
 Contoh :
-
 #include <iostream>
 using namespace std;
 int main() {
@@ -62,7 +55,6 @@ digunakan untuk merepresentasikan array dengan dimensi lebih dari dua atau
 array yang memiliki lebih dari dua indeks, seperti array tiga dimensi, array
 empat dimensi, array lima dimensi, dan seterusnya.
     Contoh :
-
 #include <iostream>
 using namespace std;
     int main() {
@@ -84,11 +76,16 @@ Output :
 8 5 2
 9 2 7
 
-## Guided
+4) Array Empat Dimensi
+Contoh :
+int arr [3][2][4][4];
+5) Array Lima Dimensi
+Contoh :
+int arr [2][4][4][3][3];
+
 ## Guided1
+Guided 1
 ## Program Input Array Tiga Dimensi
-![alt text](https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul2-Array/Guided/Screenshot%202024-03-20%20094034.png?raw=true)
-![alt text](https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul2-Array/Guided/Screenshot%202024-03-20%20094059.png?raw=true)
 #include <iostream>
 
 using namespace std;
@@ -139,9 +136,8 @@ int main()
     return 0;
 }
 ```
-![alt text](https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul2-Array/Guided/Screenshot%202024-03-20%20094034.png?raw=true)
-![alt text](https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul2-Array/Guided/Screenshot%202024-03-20%20094059.png?raw=true)
-
+![alt text](<Screenshot 2024-03-20 094034-1.png>) </br>
+![alt text](<Screenshot 2024-03-20 094059-1.png>) </br>
 Kode diatas digunakan untuk menginputkan nilai melalui array 3 dimensi dengan menggunakan konsep perulangan for
 
 ## Guided 2
@@ -173,18 +169,15 @@ int main(){
     cout << "Nilai maksimum adalah "<<maks << " berada di Array ke " << lokasi << endl;
 }
 ```
-![alt text](https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul2-Array/Guided/Screenshot%202024-03-20%20095133.png?raw=true)
-
+![alt text](<Screenshot 2024-03-20 095133-1.png>) </br>
 Kode diatas digunakan untuk mencari maksimum nilai pada array ke berapa menggunakan perulangan for
 
 ## Unguided
 ## Unguided 1
 ## Program menampilkan nilai ganjil dan genap menggunakan array
-![alt text](https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul2-Array/Guided/Screenshot%202024-03-19%20121318.png?raw=true)
 // coding by Luthfi Adi Harianto 
 // NIM : 2311102172
 // Kelas : IF11E
-
 #include <iostream>
 
 using namespace std;
@@ -218,8 +211,7 @@ int main() {
     return 0;
 }
 ```
-![alt text](https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul2-Array/Guided/Screenshot%202024-03-19%20121318.png?raw=true)
-
+![alt text](<Screenshot 2024-03-19 121318-1.png>) </br>
 Kode diatas digunakan untuk menampilkan output(dihasilkan/dikeluarkan) yang diinputkan(dimasukkan) dari user 1,2,3,4,5,6,7,8,9,10 menghasilkan nomor genap 2,4,6,8,10 dan nomor ganjil 1,3,5,7,9
 
 ## Unguided 2
@@ -253,6 +245,8 @@ int main() {
       }
     }
   }
+![alt text](<Screenshot 2024-03-19 121528-1.png>) </br>
+![alt text](<Screenshot 2024-03-19 121549-1.png>) </br>
   // Menampilkan elemen array
   cout << endl << "Elemen array:" << endl;
   for (int i = 0; i < x; i++) {
@@ -268,18 +262,14 @@ int main() {
   return 0;
 }
 ```
-![alt text](https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul2-Array/Guided/Screenshot%202024-03-19%20121528.png?raw=true)
-![alt text](https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul2-Array/Guided/Screenshot%202024-03-19%20121549-1.png?raw=true)
-
+![alt text](<Screenshot 2024-03-19 121528-1.png>) </br>
+![alt text](<Screenshot 2024-03-19 121549-1.png>) </br>
 Kode diatas digunakan untuk menampilkan output array tiga dimensi dimana jumlah atau ukuran elemen diinput kan oleh user
-
 ## Unguided 3
 ## Program menuprogram menu untuk mencari nilai Maksimum, Minimum dan Nilai rata rata yang dimasukkan oleh user
-![alt text](https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul2-Array/Guided/Screenshot%202024-03-19%20121858-1.png?raw=true)
 // coding by Luthfi Adi Harianto 
 // NIM : 2311102172
 // Kelas : IF11E
-
 #include <iostream>
 using namespace std;
 
@@ -330,6 +320,5 @@ int main() {
   return 0;
 }
 ```
-![alt text](https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul2-Array/Guided/Screenshot%202024-03-19%20121858-1.png?raw=true)
-
+![alt text](<Screenshot 2024-03-19 121858-1.png>) </br>
 Kode diatas digunakan untuk menampilkan output nilai maksimum, minimum , dan nilai rata rata dari suatu array yang dimasukkan nilai terserah/bebas oleh user
