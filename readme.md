@@ -94,7 +94,8 @@ int arr [2][4][4][3][3];
 ## Guided1
 Guided 1
 ## Program Input Array Tiga Dimensi
-
+![alt text](https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul2-Array/Guided/Screenshot%202024-03-20%20094034.png?raw=true)
+![alt text](https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul2-Array/Guided/Screenshot%202024-03-20%20094059.png?raw=true)
 #include <iostream>
 
 using namespace std;
@@ -281,7 +282,7 @@ Kode diatas digunakan untuk menampilkan output array tiga dimensi dimana jumlah 
 
 ## Unguided 3
 ## Program menuprogram menu untuk mencari nilai Maksimum, Minimum dan Nilai rata rata yang dimasukkan oleh user
-
+![alt text](https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul2-Array/Guided/Screenshot%202024-03-19%20121858-1.png?raw=true)
 // coding by Luthfi Adi Harianto 
 // NIM : 2311102172
 // Kelas : IF11E
