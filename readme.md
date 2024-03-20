@@ -84,15 +84,8 @@ Output :
 8 5 2
 9 2 7
 
-4) Array Empat Dimensi
-Contoh :
-int arr [3][2][4][4];
-5) Array Lima Dimensi
-Contoh :
-int arr [2][4][4][3][3];
-
+## Guided
 ## Guided1
-Guided 1
 ## Program Input Array Tiga Dimensi
 ![alt text](https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul2-Array/Guided/Screenshot%202024-03-20%20094034.png?raw=true)
 ![alt text](https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul2-Array/Guided/Screenshot%202024-03-20%20094059.png?raw=true)
