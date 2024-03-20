@@ -1,12 +1,6 @@
-Nama    : Luthfi Adi Harianto
-NIM     : 231102172
-Kelas   : IF 11 E
-
-## Dasar Teori
-    by Luthfi Adi Harianto
-    IF 11 E
-    2311102172
- Array merupakan struktur data yang paling dasar. Sebelum mempelajari struktur data lainnya, alangkah baiknya, kita perlu mempelajari Array terlebih dahulu. Berikut ini
+## dasar teori
+    Array merupakan struktur data yang paling dasar. Sebelum mempelajari struktur data
+lainnya, alangkah baiknya, kita perlu mempelajari Array terlebih dahulu. Berikut ini
 adalah beberapa jenis array :
     1) Array Satu Dimensi
 Array satu dimensi adalah tipe variabel yang terdiri dari kumpulan data
@@ -87,7 +81,7 @@ int arr [3][2][4][4];
 Contoh :
 int arr [2][4][4][3][3];
 
-## Guided1
+## Guided
 Guided 1
 ## Program Input Array Tiga Dimensi
 #include <iostream>
