@@ -336,3 +336,5 @@ int main() {
 ![alt text](Unguided3-1.png) </br>
 
 Kode diatas digunakan untuk menampilkan output nilai maksimum, minimum , dan nilai rata rata dari suatu array yang dimasukkan nilai terserah/bebas oleh user
+
+// yang ada gambarnya di file modul
