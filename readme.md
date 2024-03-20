@@ -1,6 +1,8 @@
-## dasar teori
-    Array merupakan struktur data yang paling dasar. Sebelum mempelajari struktur data
-lainnya, alangkah baiknya, kita perlu mempelajari Array terlebih dahulu. Berikut ini
+## Dasar Teori
+    by Luthfi Adi Harianto
+    IF 11 E
+    2311102172
+ Array merupakan struktur data yang paling dasar. Sebelum mempelajari struktur data lainnya, alangkah baiknya, kita perlu mempelajari Array terlebih dahulu. Berikut ini
 adalah beberapa jenis array :
     1) Array Satu Dimensi
 Array satu dimensi adalah tipe variabel yang terdiri dari kumpulan data
@@ -81,7 +83,7 @@ int arr [3][2][4][4];
 Contoh :
 int arr [2][4][4][3][3];
 
-## Guided
+## Guided1
 Guided 1
 ## Program Input Array Tiga Dimensi
 #include <iostream>
@@ -89,9 +91,9 @@ Guided 1
 using namespace std;
 
 // program input array 3 dimensi
+// deklarasi array
 int main()
 {
-    // deklarasi array
     int arr[2][3][3];
     // input elemen
     for (int x = 0; x < 2; x++)
@@ -137,12 +139,9 @@ int main()
 ![alt text](<Screenshot 2024-03-20 094034-1.png>) </br>
 ![alt text](<Screenshot 2024-03-20 094059-1.png>) </br>
 Kode diatas digunakan untuk menginputkan nilai melalui array 3 dimensi dengan menggunakan konsep perulangan for
-
 ## Guided 2
 ### Program Mencari Nilai Maksimal pada Array
-
 #include <iostream>
-
 using namespace std;
 int main(){
     int maks, a, i = 1, lokasi;
@@ -170,20 +169,19 @@ int main(){
 ![alt text](<Screenshot 2024-03-20 095133-1.png>) </br>
 Kode diatas digunakan untuk mencari maksimum nilai pada array ke berapa menggunakan perulangan for
 
-// coding by Luthfi Adi Harianto 
-// NIM : 2311102172
-// Kelas : IF11E
 ## Unguided
 ## Unguided 1
 ## Program menampilkan nilai ganjil dan genap menggunakan array
-
+// coding by Luthfi Adi Harianto 
+// NIM : 2311102172
+// Kelas : IF11E
 #include <iostream>
 
 using namespace std;
 int main() {
     //deklarasi array data dengan 10 elemen 1-10
     int data[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
-    
+
     cout << "Data array: ";
     for (int i = 0; i < 10; i ++){
         cout << data[i] << " ";
@@ -212,7 +210,6 @@ int main() {
 ```
 ![alt text](<Screenshot 2024-03-19 121318-1.png>) </br>
 Kode diatas digunakan untuk menampilkan output(dihasilkan/dikeluarkan) yang diinputkan(dimasukkan) dari user 1,2,3,4,5,6,7,8,9,10 menghasilkan nomor genap 2,4,6,8,10 dan nomor ganjil 1,3,5,7,9
-
 ## Unguided 2
 ## Program Input array 3 dimensi
 // coding by Luthfi Adi Harianto 
@@ -220,10 +217,8 @@ Kode diatas digunakan untuk menampilkan output(dihasilkan/dikeluarkan) yang diin
 // Kelas : IF11E
 #include <iostream>
 using namespace std;
-
 int main() {
   int x, y, z;
-
   // Input jumlah elemen di setiap dimensi
   cout << "Masukkan jumlah elemen di dimensi X: ";
   cin >> x;
@@ -231,10 +226,8 @@ int main() {
   cin >> y;
   cout << "Masukkan jumlah elemen di dimensi Z: ";
   cin >> z;
-
   // Deklarasi array tiga dimensi
   int array[x][y][z];
-
   // Input nilai elemen array
   for (int i = 0; i < x; i++) {
     for (int j = 0; j < y; j++) {
@@ -257,7 +250,6 @@ int main() {
     }
     cout << endl;
   }
-
   return 0;
 }
 ```
