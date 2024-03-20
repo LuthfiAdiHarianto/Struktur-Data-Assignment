@@ -180,7 +180,7 @@ Kode diatas digunakan untuk mencari maksimum nilai pada array ke berapa mengguna
 ## Unguided
 ## Unguided 1
 ## Program menampilkan nilai ganjil dan genap menggunakan array
-
+![alt text](https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul2-Array/Guided/Screenshot%202024-03-19%20121318.png?raw=true)
 // coding by Luthfi Adi Harianto 
 // NIM : 2311102172
 // Kelas : IF11E
