@@ -224,6 +224,7 @@ return 0;
 }
 ```
 ![alt text](<Screenshot 2024-03-25 115937-1.png>) </br>
+![alt text]https://github.com/LuthfiAdiHarianto/Struktur-Data-Assignment/blob/main/Modul3-SingleDoublelist/Guided/Screenshot%202024-03-25%20115937-1.png?raw=true)
 kode diatas digunakan untuk menampilkan nilai angka secara 3, 35, 235, 1235, 235, 23, 273, 23, 13, 18, 111
 
 b)	Latihan Double Linked List Source Code
