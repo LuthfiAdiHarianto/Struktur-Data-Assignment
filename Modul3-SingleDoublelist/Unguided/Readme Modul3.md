@@ -699,3 +699,5 @@ dengan menggunakan single double lingked list kita dapat mempermudah update data
 
 (2) Sundell, H., Tsigas, P.: Lock-free and practical deques using single-word compare-and-swap. Technical Report 2004-02, Computing Science, Chalmers University of Technology (2004)
 
+
+// kak yang ada gambarnya di guided
