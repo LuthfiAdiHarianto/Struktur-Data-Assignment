@@ -257,3 +257,7 @@ Wortman, Kevin. "Stacks: CS2/C++." POGIL Activity Clearinghouse 3.4 (2022).
 Amy, Matthew, and Vlad Gheorghiu. "staq—A full-stack quantum processing toolkit." Quantum Science and Technology 5.3 (2020): 034016.
 
 
+## Note
+yang ada gambarnya di Unguided kak
+
+
