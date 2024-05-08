@@ -248,7 +248,16 @@ tumpukan.pop(): Digunakan untuk mengeluarkan karakter teratas dari stack.
 
 ## Kesimpulan
 Stack merupakan struktur data yang penting dan serba guna di dalam C++ dikarenakan memiliki fungsi yang banyak bisa di combo dengan array maupun lingked list. dengan prinsip "terakhir masuk, pertama keluar" (LIFO). Elemen yang terakhir dimasukkan akan menjadi elemen pertama yang dikeluarkan.
-
+1. Kelebihan
+membantu mengelola data dengan metode LIFO
+secara otomatis membersihkan objek
+tidak mudah rusak
+ukuran variabel tidak dapat diubah
+mengontrol memori secara mandiri
+2. Kekurangan
+memori stack sangat terbatas
+ada kemungkinan stack akan meluap atau overflow jika terlalu banyak objek
+tidak memungkinkan akses acak, karena harus mengeluarkan tumpukan paling atas terlebih dahulu untuk mengakses tumpukan paling bawah
 ## Daftar Pustaka
 Karumanchi, N. (2016). Data Structures and algorithms made easy: Concepts,
 problems, Interview Questions. CareerMonk Publications
