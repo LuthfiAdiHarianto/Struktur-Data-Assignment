@@ -5,12 +5,13 @@
 
 ## MODUL 4
 ## LINKED LIST CIRCULAR DAN NON CIRCULAR
-    A. TUJUAN PRAKTIKUM
+
+## TUJUAN PRAKTIKUM
 a. Praktikan dapat mengetahui dan memahami linked list circular dan non circular.
 b. Praktikan dapat membuat linked list circular dan non circular.
 c. Praktikan dapat mengaplikasikan atau menerapkan linked list circular dan non 
 circular pada program yang dibuat.
-    B. DASAR TEORI
+## DASAR TEORI
 1. Linked List Non Circular
 Linked list non circular merupakan linked list dengan node pertama (head) dan 
 node terakhir (tail) yang tidak saling terhubung. Pointer terakhir (tail) pada Linked 
@@ -221,7 +222,8 @@ cout << endl;
 }
 ``` C++
 ## Praktikum Struktur Data dan Algoritma 9
-    C. GUIDED
+
+## GUIDED
 1. Linked List Non Circular
 ``` C++
 #include <iostream>
