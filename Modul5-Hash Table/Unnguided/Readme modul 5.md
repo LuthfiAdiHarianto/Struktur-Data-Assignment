@@ -5,10 +5,11 @@
 
 ## MODUL 5
 ## HashTable
-    A. TUJUAN PRAKTIKUM
+
+ ## TUJUAN PRAKTIKUM
 a. Mahasiswa mampu menjelaskan definisi dan konsep dari Hash Code
 b. Mahasiswa mampu menerapkan Hash Code kedalam pemrograman
-    B. DASAR TEORI
+##  DASAR TEORI
 a. Pengertian Hash Table
 Hash Table adalah struktur data yang mengorganisir data ke dalam pasangan
 kunci-nilai. Hash table biasanya terdiri dari dua komponen utama: array (atau
