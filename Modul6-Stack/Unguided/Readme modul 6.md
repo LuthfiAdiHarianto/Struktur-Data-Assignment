@@ -6,11 +6,11 @@
 ## MODUL 6
 ## Stack
 
-A. TUJUAN PRAKTIKUM
+## TUJUAN PRAKTIKUM
 a. Mampu memahami konsep stack pada struktur data dan algoritma
 b. Mampu mengimplementasikan operasi-operasi pada stack
 c. Mampu memecahkan permasalahan dengan solusi stack
-B. DASAR TEORI
+## DASAR TEORI
 Stack adalah struktur data sederhana yang digunakan untuk menyimpan data (mirip
 dengan Linked Lists). Dalam tumpukan, urutan kedatangan data penting. Sebuah
 tumpukan piring di kafetaria adalah contoh bagus dari tumpukan. Piring ditambahkan
