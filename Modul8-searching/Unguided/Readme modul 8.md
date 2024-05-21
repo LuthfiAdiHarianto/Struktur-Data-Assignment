@@ -29,6 +29,7 @@ c.	Selama ( tidak ketemu ) dan ( i < N ) kerjakan baris 4
 d.	Jika ( Data[i] = key ) maka ketemu <- true Jika tidak i <- i + 1
 e.	Jika ( Ketemu ) maka i adalah indeks dari data yang dicari
 ![alt text](Picture1.png)</br>
+
 2. Algoritma Binary Search
 Algoritma ini digunakan untuk kebutuhan
 pencarian dengan waktu yang cepat.
@@ -274,6 +275,7 @@ Tidak memerlukan data yang terurut.
 Kekurangan:
 Memiliki kompleksitas waktu O(n), di mana n adalah jumlah elemen dalam data.
 Kurang efisien dibandingkan dengan algoritma pencarian lain seperti Binary Search untuk data yang terurut.
+
 2. Algoritma Binary Search:
 
 Digunakan untuk mencari elemen dalam data yang terurut.
