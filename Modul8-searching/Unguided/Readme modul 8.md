@@ -6,14 +6,14 @@
 ## MODUL 8
 ## Searching
 
-A. TUJUAN PRAKTIKUM
+## TUJUAN PRAKTIKUM
 a. Menunjukkan beberapa algoritma dalam Pencarian.
 b. Menunjukkan bahwa pencarian merupakan suatu persoalan yang bisa diselesaikan
 dengan beberapa algoritma yang berbeda.
 c. Dapat memilih algoritma yang paling sesuai untuk menyelesaikan suatu 
 permasalahan pemrograman.
 
-B. Dasar Teori
+## Dasar Teori
 Pencarian merupakan proses yang fundamental dalam pengolahan data. Sequential Searching merupakan algoritma pencarian beruntun yang prosesnya membandingkan setiap elemen satu persatu secara beruntun, mulai dari elemen pertama sampai elemen yang di cari di temukan atau seluruh elemen sudah di periksa. Dalam sistem yang akan dibuat dalam peneliian ini, fitur pencarian menggunakan algoritma Sequential Searching untuk mencari nomor surat yang telah di arsipkan. Data arsip yang telah tersimpan di dalam database di kumpulkan pada sebuah Array lalu dari Array tersebut akan di lakukan proses pencarian dengan algoritma Sequential Searching. Jika data yang di cari ada di dalam Array maka data tersebut akan di tampilkan. Jika tidak ada maka akan menampilkan pesan bahwa data tidak ada.
 1. 	Algoritma Sequential Searching
 Sequential Search adalah proses membandingkan setiap elemen array satu persatu secara beruntun dimulai dari elemen pertama hingga elemen yang dicari ditemukan atau hingga elemen terakhir dari array[4]. Metode Sequential Search atau disebut pencarian beruntun dapat digunakan untuk melakukan pencarian data baik pada array yang sudah terurut maupun yang belum terurut. Proses yang terjadi pada metode pencarian ini adalah sebagai berikut [1] : (1) Membaca array data. (2) Menentukan data yang dicari. (3) Mulai dari data pertama sampai dengan data terakhir, data yang dicari dibandingkan dengan masing-masing data di dalam array. Jika data yang dicari tidak ditemukan maka semua data atau elemen array dibandingkan sampai selesai. Jika data yang dicari ditemukan maka perbandingan akan dihentikan
